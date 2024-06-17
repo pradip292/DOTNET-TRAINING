@@ -6,7 +6,8 @@ class Program
     {
         Console.WriteLine("Welcome to Matrix Operations Program:");
         // Call the method to perform array operations
-        ArrayOperations.ArrayMatrixOperations();
+        //ArrayOperations.ArrayMatrixOperations(); 
+        JaggedArray.Solution();
     }
 }
 
