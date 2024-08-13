@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|d:\\sanjivani\\b tech 4th year\\dotnet\\expense-tracker-app-in-asp.net-core-mvc-main\\expense tracker\\migrations\\20240813183046_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\migrations\\20240813183046_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|d:\\sanjivani\\b tech 4th year\\dotnet\\expense-tracker-app-in-asp.net-core-mvc-main\\expense tracker\\migrations\\20240718051719_pradip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\migrations\\20240718051719_pradip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|d:\\sanjivani\\b tech 4th year\\dotnet\\expense-tracker-app-in-asp.net-core-mvc-main\\expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|d:\\sanjivani\\b tech 4th year\\dotnet\\expense-tracker-app-in-asp.net-core-mvc-main\\expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|d:\\sanjivani\\b tech 4th year\\dotnet\\expense-tracker-app-in-asp.net-core-mvc-main\\expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|d:\\sanjivani\\b tech 4th year\\dotnet\\expense-tracker-app-in-asp.net-core-mvc-main\\expense tracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|d:\\sanjivani\\b tech 4th year\\dotnet\\expense-tracker-app-in-asp.net-core-mvc-main\\expense tracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|d:\\sanjivani\\b tech 4th year\\dotnet\\expense-tracker-app-in-asp.net-core-mvc-main\\expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|d:\\sanjivani\\b tech 4th year\\dotnet\\expense-tracker-app-in-asp.net-core-mvc-main\\expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|d:\\sanjivani\\b tech 4th year\\dotnet\\expense-tracker-app-in-asp.net-core-mvc-main\\expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240813183046_InitialCreate1.cs",
+              "DocumentMoniker": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Migrations\\20240813183046_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Migrations\\20240813183046_InitialCreate1.cs",
+              "ToolTip": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Migrations\\20240813183046_InitialCreate1.cs",
+              "RelativeToolTip": "Expense Tracker\\Migrations\\20240813183046_InitialCreate1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:30:46.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T05:12:15.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T05:12:15.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T05:12:15.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\appsettings.json",
+              "RelativeDocumentMoniker": "Expense Tracker\\appsettings.json",
+              "ToolTip": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\appsettings.json",
+              "RelativeToolTip": "Expense Tracker\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T05:13:44.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240718051719_Pradip.cs",
+              "DocumentMoniker": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Migrations\\20240718051719_Pradip.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Migrations\\20240718051719_Pradip.cs",
+              "ToolTip": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Migrations\\20240718051719_Pradip.cs",
+              "RelativeToolTip": "Expense Tracker\\Migrations\\20240718051719_Pradip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:17:19.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T06:17:08.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T06:17:13.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwBsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T06:17:49.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Sanjivani\\B Tech 4th Year\\DOTNET\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T05:12:15.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
